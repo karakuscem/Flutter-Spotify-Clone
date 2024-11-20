@@ -3,4 +3,6 @@ class AppVectors {
   static const format = '.svg';
 
   static const logo = '${basePath}spotify_logo$format';
+  static const sun = '${basePath}sun$format';
+  static const moon = '${basePath}moon$format';
 }
